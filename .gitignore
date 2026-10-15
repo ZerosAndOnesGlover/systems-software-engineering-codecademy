@@ -1,0 +1,27 @@
+# C / C++ compiled artifacts
+*.o
+*.obj
+*.gch
+*.pch
+*.exe
+*.out
+*.dSYM/
+a.out
+
+# Rust build output
+target/
+**/target/
+
+# Go build output
+bin/
+*.test
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
