@@ -8,10 +8,6 @@
 *.dSYM/
 a.out
 
-# Rust build output
-target/
-**/target/
-
 # Go build output
 bin/
 *.test
